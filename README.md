@@ -1,5 +1,6 @@
 # Book-Store
-Online Bookstore implemented by javaFX
+
+An Online Bookstore was implemented by Java & JavaFX
 
     ---This Application was implemented using offline XAMPP database.
 * As OOP concepts were followed, you can change the host, password, and uri from the ConnectionEstablisher Class in the database package.
